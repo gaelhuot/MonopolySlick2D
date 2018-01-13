@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="3" height="3" tilewidth="1248" tileheight="1249">
+ <tileset firstgid="1" name="monopoly-classique-plateau" tilewidth="1248" tileheight="1249">
+  <image source="tiles/monopoly-classique-plateau.jpg" width="1249" height="1249"/>
+ </tileset>
+ <tileset firstgid="2" name="ground" tilewidth="1248" tileheight="1249">
+  <image source="tiles/ground/ground.png" width="1253" height="1253"/>
+ </tileset>
+ <layer name="plat" width="3" height="3">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgQAWMDJgAAJOJ0Q8kAAAA
+  </data>
+ </layer>
+ <layer name="wall" width="3" height="3">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NiYGBgQsIMaHwQBgCUUgT6JAAAAA==
+  </data>
+ </layer>
+</map>
